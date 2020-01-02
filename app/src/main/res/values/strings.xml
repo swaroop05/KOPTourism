@@ -1,0 +1,218 @@
+<resources>
+    <!-- Category Names -->
+    <string name="app_name">KOP Tourism</string>
+    <string name="parks_category_name">Parks</string>
+    <string name="attractions_category">Must See</string>
+    <string name="shopping_category">Shopping</string>
+    <string name="restaurants_category">Dining</string>
+    <!-- Park 1 information -->
+    <string name="park1_name">Valley Forge National Historical Park</string>
+    <string name="park1_address">1400 N Outer Line Dr, King of Prussia, PA 19406</string>
+    <string name="park1_hrs">Hours: Dawn to Dusk</string>
+    <string name="park1_stars">Stars: 4.7/5</string>
+    <string name="park1_location">http://maps.google.com/maps?daddr=40.102057, -75.446909</string>
+    <!-- Park 2 information -->
+    <string name="park2_name">Norristown Farm Park</string>
+    <string name="park2_address">2500 Upper Farm Rd, Norristown, PA 19403</string>
+    <string name="park2_hrs">Hours: Dawn to Dusk</string>
+    <string name="park2_stars">Stars: 4.6/5</string>
+    <string name="park2_location">http://maps.google.com/maps?daddr=40.143415, -75.349973</string>
+    <!-- Park 3 information -->
+    <string name="park3_name">Heuser Park</string>
+    <string name="park3_address">694 West Beidler Rd, King of Prussia, PA 19406</string>
+    <string name="park3_hrs">Hours: Dawn to Dusk</string>
+    <string name="park3_stars">Stars: 4.5/5</string>
+    <string name="park3_location">http://maps.google.com/maps?daddr=40.110860, -75.399861</string>
+    <!-- Park 4 information -->
+    <string name="park4_name">Harford Park</string>
+    <string name="park4_address">260 Gulph Creek Rd, Wayne, PA 19087</string>
+    <string name="park4_hrs">Hours: Dawn to Dusk</string>
+    <string name="park4_stars">Stars: 4.5/5</string>
+    <string name="park4_location">http://maps.google.com/maps?daddr=40.052429, -75.355736</string>
+    <!-- Park 5 information -->
+    <string name="park5_name">Ashbridge Memorial Park</string>
+    <string name="park5_address">1301 Montgomery Ave, Bryn Mawr, PA 19010</string>
+    <string name="park5_hrs">Hours: Dawn to Dusk</string>
+    <string name="park5_stars">Stars: 4.7/5</string>
+    <string name="park5_location">http://maps.google.com/maps?daddr=40.030452, -75.323283</string>
+    <!-- Park 6 information -->
+    <string name="park6_name">Burke Park</string>
+    <string name="park6_address">Roberts Rd and S Warren Ave, Malvern, PA 19355</string>
+    <string name="park6_hrs">Hours: Dawn to Dusk</string>
+    <string name="park6_stars">Stars: 4.5/5</string>
+    <string name="park6_location">http://maps.google.com/maps?daddr=40.035493, -75.513612</string>
+    <!-- Park 7 information -->
+    <string name="park7_name">Valley Creek Park</string>
+    <string name="park7_address">Malvern, PA 19355</string>
+    <string name="park7_hrs">Hours: Dawn to Dusk</string>
+    <string name="park7_stars">Stars: 4.5/5</string>
+    <string name="park7_location">http://maps.google.com/maps?daddr=40.06069,-75.5348549</string>
+    <!-- Attractions 1 information -->
+    <string name="attraction1_name">Escape Room Mystery</string>
+    <string name="attraction1_address">840 1st Ave #500, King of Prussia, PA 19406</string>
+    <string name="attraction1_hrs">Hours: 1PM to 11 PM</string>
+    <string name="attraction1_stars">Stars: 4.7/5</string>
+    <string name="attraction1_location">http://maps.google.com/maps?daddr=40.0964167,-75.4028049</string>
+    <!-- Attractions 2 information -->
+    <string name="attraction2_name">Elmwood Park Zoo</string>
+    <string name="attraction2_address">1661 Harding Blvd, Norristown, PA 19401</string>
+    <string name="attraction2_hrs">Hours: 10 AM to 4 PM</string>
+    <string name="attraction2_stars">Stars: 4.4/5</string>
+    <string name="attraction2_location">http://maps.google.com/maps?daddr=40.1328261,-75.3408557</string>
+    <!-- Attractions 3 information -->
+    <string name="attraction3_name">Valley Forge Casino Resort</string>
+    <string name="attraction3_address">1160 1st Ave, King of Prussia, PA 19406</string>
+    <string name="attraction3_hrs">Open 24 hours</string>
+    <string name="attraction3_stars">Stars: 3.8/5</string>
+    <string name="attraction3_location">http://maps.google.com/maps?daddr=40.0965789,-75.4181358</string>
+    <!-- Attractions 4 information -->
+    <string name="attraction4_name">Expedition Escape!</string>
+    <string name="attraction4_address">601 S Henderson Rd, King of Prussia, PA 19406</string>
+    <string name="attraction4_hrs">Hours: 1 PM to 10 PM</string>
+    <string name="attraction4_stars">Stars: 4.8/5</string>
+    <string name="attraction4_location">http://maps.google.com/maps?daddr=40.0786482,-75.3588841</string>
+    <!-- Attractions 5 information -->
+    <string name="attraction5_name">iFLY King of Prussia</string>
+    <string name="attraction5_address">290 Goddard Blvd, King of Prussia, PA 19406</string>
+    <string name="attraction5_hrs">Hours: 10 AM to 10 PM</string>
+    <string name="attraction5_stars">Stars: 4.7/5</string>
+    <string name="attraction5_location">http://maps.google.com/maps?daddr=40.0928663,-75.4030671</string>
+    <!-- Attractions 6 information -->
+    <string name="attraction6_name">Washington Memorial Chapel</string>
+    <string name="attraction6_address">RR 23, Valley Forge, PA 19481</string>
+    <string name="attraction6_hrs">Hours: 9.30 AM - 6 PM</string>
+    <string name="attraction6_stars">Stars: 4.6/5</string>
+    <string name="attraction6_location">http://maps.google.com/maps?daddr=40.1056718,-75.4427392</string>
+    <!-- Attractions 7 information -->
+    <string name="attraction7_name">National Memorial Arch</string>
+    <string name="attraction7_address">420 Gulph Rd, King of Prussia, PA 19406</string>
+    <string name="attraction7_hrs">Hours: Dawn to Dusk</string>
+    <string name="attraction7_stars">Stars: 4.4/5</string>
+    <string name="attraction7_location">http://maps.google.com/maps?daddr=40.0918207,-75.4406879</string>
+    <!-- Attractions 8 information -->
+    <string name="attraction8_name">Washington\'s Headquarters</string>
+    <string name="attraction8_address">1400 N Outer Line Dr, King of Prussia, PA 19406</string>
+    <string name="attraction8_hrs">Hours: 9 AM to 6 PM</string>
+    <string name="attraction8_stars">Stars: 4.6/5</string>
+    <string name="attraction8_location">http://maps.google.com/maps?daddr=40.1017792,-75.4633602</string>
+    <!-- Attractions 9 information -->
+    <string name="attraction9_name">9/11 Memorial</string>
+    <string name="attraction9_address">170 Allendale Rd, King of Prussia, PA 19406</string>
+    <string name="attraction9_hrs">Open 24 hours</string>
+    <string name="attraction9_stars">Stars: 4.1/5</string>
+    <string name="attraction9_location">http://maps.google.com/maps?daddr=40.0908933,-75.3851072</string>
+    <!-- Shopping 1 information -->
+    <string name="shopping1_name">King of Prussia Mall</string>
+    <string name="shopping1_address">160 N Gulph Rd, King of Prussia, PA 19406</string>
+    <string name="shopping1_hrs">Hours: 11AM to 9 PM</string>
+    <string name="shopping1_stars">Stars: 4.5/5</string>
+    <string name="shopping1_location">http://maps.google.com/maps?daddr=40.0882963,-75.3931199</string>
+    <!-- Shopping 2 information -->
+    <string name="shopping2_name">Philadelpia premium outlets</string>
+    <string name="shopping2_address">18 West Lightcap Rd, Pottstown, PA 19464</string>
+    <string name="shopping2_hrs">Hours: 10 AM to 7 PM</string>
+    <string name="shopping2_stars">Stars: 4.5/5</string>
+    <string name="shopping2_location">http://maps.google.com/maps?daddr=40.2366527,-75.5727972</string>
+    <!-- Shopping 3 information -->
+    <string name="shopping3_name">King of Prussia Town Center</string>
+    <string name="shopping3_address">155 Village Drive, King of Prussia, PA 19406</string>
+    <string name="shopping3_hrs">Hours: 11 AM to 10 PM</string>
+    <string name="shopping3_stars">Stars: 4.5/5</string>
+    <string name="shopping3_location">http://maps.google.com/maps?daddr=40.0837977,-75.407175</string>
+    <!-- Shopping 4 information -->
+    <string name="shopping4_name">The Greater Philadelphia Expo Center</string>
+    <string name="shopping4_address">100 Station Ave, Oaks, PA 19456</string>
+    <string name="shopping4_hrs">Hours: 10 AM to 9 PM</string>
+    <string name="shopping4_stars">Stars: 4.1/5</string>
+    <string name="shopping4_location">http://maps.google.com/maps?daddr=40.1227391,-75.4592671</string>
+    <!-- Shopping 5 information -->
+    <string name="shopping5_name">CostCo Wholesale</string>
+    <string name="shopping5_address">201 Allendale Rd, King of Prussia, PA 19406</string>
+    <string name="shopping5_hrs">Hours: 10 AM to 6 PM</string>
+    <string name="shopping5_stars">Stars: 4.5/5</string>
+    <string name="shopping5_location">http://maps.google.com/maps?daddr=40.0913683,-75.3891629</string>
+    <!-- Shopping 6 information -->
+    <string name="shopping6_name">Walmart</string>
+    <string name="shopping6_address">275 N Gulph Rd, King of Prussia, PA 19406</string>
+    <string name="shopping6_hrs">Open 24 hours</string>
+    <string name="shopping6_stars">Stars: 3.7/5</string>
+    <string name="shopping6_location">http://maps.google.com/maps?daddr=40.0834476,-75.400785</string>
+    <!-- Shopping 7 information -->
+    <string name="shopping7_name">Wegmans</string>
+    <string name="shopping7_address">1 Village Drive, King of Prussia, PA 19406</string>
+    <string name="shopping7_hrs">Open 24 hours</string>
+    <string name="shopping7_stars">Stars: 4.5/5</string>
+    <string name="shopping7_location">http://maps.google.com/maps?daddr=40.0835251,-75.4041967</string>
+    <!-- Shopping 8 information -->
+    <string name="shopping8_name">Ikea</string>
+    <string name="shopping8_address">400 Alan Wood Rd, Conshohocken, PA 19428</string>
+    <string name="shopping8_hrs">Hours: 10 AM to 9 PM</string>
+    <string name="shopping8_stars">Stars: 4.4/5</string>
+    <string name="shopping8_location">http://maps.google.com/maps?daddr=40.0944361,-75.3088267</string>
+    <!-- Restaurant 1 information -->
+    <string name="restaurants1_name">Cheesecake Factory</string>
+    <string name="restaurants1_address">640 W Dekalb Pike, King of Prussia, PA 19406</string>
+    <string name="restaurants1_hrs">Hours: 10 AM to 11 PM</string>
+    <string name="restaurants1_stars">Stars: 4.0/5</string>
+    <string name="restaurants1_location">http://maps.google.com/maps?daddr=40.0897683,-75.3860553</string>
+    <!-- Restaurant 2 information -->
+    <string name="restaurants2_name">California Pizza Kitchen</string>
+    <string name="restaurants2_address">470 Mall Blvd, King of Prussia, PA 19406</string>
+    <string name="restaurants2_hrs">Hours: 11 AM to 9 PM</string>
+    <string name="restaurants2_stars">Stars: 4.0/5</string>
+    <string name="restaurants2_location">http://maps.google.com/maps?daddr=40.0894411,-75.3869697</string>
+    <!-- Restaurant 3 information -->
+    <string name="restaurants3_name">Buca di Beppo - Italian</string>
+    <string name="restaurants3_address">300 Main St, Exton, PA 19341</string>
+    <string name="restaurants3_hrs">Hours: 11 AM to 11 PM</string>
+    <string name="restaurants3_stars">Stars: 3.4/5</string>
+    <string name="restaurants3_location">http://maps.google.com/maps?daddr=40.0221756,-75.6303294</string>
+    <!-- Restaurant 4 information -->
+    <string name="restaurants4_name">Peppers Italian Restaurant</string>
+    <string name="restaurants4_address">239 Town Center Rd, King of Prussia, PA 19406</string>
+    <string name="restaurants4_hrs">Hours: 7 AM to 2 AM</string>
+    <string name="restaurants4_stars">Stars: 4.0/5</string>
+    <string name="restaurants4_location">http://maps.google.com/maps?daddr=40.0943807,-75.3716105</string>
+    <!-- Restaurant 5 information -->
+    <string name="restaurants5_name">Tio Mexican Restaurant</string>
+    <string name="restaurants5_address">680 Lancaster Ave, Berwyn, PA 19312</string>
+    <string name="restaurants5_hrs">Hours: 12 PM to 9 PM</string>
+    <string name="restaurants5_stars">Stars: 4.7/5</string>
+    <string name="restaurants5_location">http://maps.google.com/maps?daddr=40.0472331,-75.4449207</string>
+    <!-- Restaurant 6 information -->
+    <string name="restaurants6_name">Gangster Vegan Organics</string>
+    <string name="restaurants6_address">2454 W Main St, Norristown, PA 19403</string>
+    <string name="restaurants6_hrs">Hours: 10 AM to 5 PM</string>
+    <string name="restaurants6_stars">Stars: 4.9/5</string>
+    <string name="restaurants6_location">http://maps.google.com/maps?daddr=40.1398817,-75.3892299</string>
+    <!-- Restaurant 7 information -->
+    <string name="restaurants7_name">Devi Indian Restaurant Inc</string>
+    <string name="restaurants7_address">151 W Lincoln Hwy, Exton, PA 19341</string>
+    <string name="restaurants7_hrs">Hours: 12 PM to 9 PM</string>
+    <string name="restaurants7_stars">Stars: 4.0/5</string>
+    <string name="restaurants7_location">http://maps.google.com/maps?daddr=40.0306024,-75.6339369</string>
+    <!-- Restaurant 8 information -->
+    <string name="restaurants8_name">PIN WIE - Chinese</string>
+    <string name="restaurants8_address">314 S Henderson Rd, King of Prussia, PA 19406</string>
+    <string name="restaurants8_hrs">Hours: 12 AM to 9 PM</string>
+    <string name="restaurants8_stars">Stars: 4.2/5</string>
+    <string name="restaurants8_location">http://maps.google.com/maps?daddr=40.091378,-75.3610794</string>
+    <!-- Restaurant 9 information -->
+    <string name="restaurants9_name">Aroma Mediterranean Cuisine</string>
+    <string name="restaurants9_address">10104 Valley Forge Cir, King of Prussia, PA 19406</string>
+    <string name="restaurants9_hrs">Hours: 12 AM to 9 PM</string>
+    <string name="restaurants9_stars">Stars: 4.3/5</string>
+    <string name="restaurants9_location">http://maps.google.com/maps?daddr=40.1042891,-75.4156276</string>
+    <!-- Restaurant 10 information -->
+    <string name="restaurants10_name">Pholicious - Vietnameze</string>
+    <string name="restaurants10_address">160 N Gulph Rd, King of Prussia, PA 19406</string>
+    <string name="restaurants10_hrs">Hours: 10 AM to 9 PM</string>
+    <string name="restaurants10_stars">Stars: 4.1/5</string>
+    <string name="restaurants10_location">http://maps.google.com/maps?daddr=40.0882649,-75.3956566</string>
+    <!-- Restaurant 11 information -->
+    <string name="restaurants11_name">Biriyani City</string>
+    <string name="restaurants11_address">3140 Ridge Pike, Norristown, PA 19403</string>
+    <string name="restaurants11_hrs">Hours: 12 PM to 10 PM</string>
+    <string name="restaurants11_stars">Stars: 4.3/5</string>
+    <string name="restaurants11_location">http://maps.google.com/maps?daddr=40.1566683,-75.4063579</string>
+</resources>

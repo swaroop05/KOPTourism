@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="166dp"
+    android:orientation="vertical">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/place_info_linear_layout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/list_item_height"
+        android:background="@color/colorAccent"
+        android:minHeight="@dimen/list_item_height">
+
+        <LinearLayout
+            android:id="@+id/image_layout"
+            android:layout_width="@dimen/image_item_width"
+            android:layout_height="@dimen/list_item_height"
+            android:orientation="vertical"
+            android:padding="8dp">
+
+            <ImageView
+                android:id="@+id/place_image_view"
+                android:layout_width="@dimen/image_item_width"
+                android:layout_height="@dimen/image_item_height"
+                android:layout_weight="1"
+                android:scaleType="centerCrop" />
+
+            <TextView
+                android:id="@+id/stars_image_view"
+                android:layout_width="@dimen/image_item_width"
+                android:layout_height="@dimen/stars_item_height"
+                android:textStyle="bold"
+                tools:text="stars" />
+        </LinearLayout>
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/list_item_height"
+            android:mode="twoLine"
+            android:orientation="vertical"
+            android:padding="@dimen/place_info_padding">
+
+            <TextView
+                android:id="@+id/place_name"
+                style="@style/name_address_textview"
+                android:textColor="@color/black"
+                tools:text="PlaceName" />
+
+            <TextView
+                android:id="@+id/address"
+                style="@style/name_address_textview"
+                android:textColor="@color/white"
+                tools:text="Address" />
+
+            <TextView
+                android:id="@+id/hours"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:textAppearanceListItemSmall"
+                android:textColor="@color/white"
+                tools:text="hours" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

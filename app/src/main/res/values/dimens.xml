@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Height of each list item -->
+    <dimen name="list_item_height">166dp</dimen>
+    <!-- Width of each Image item -->
+    <dimen name="image_item_width">120dp</dimen>
+    <!-- Height of each Image item -->
+    <dimen name="image_item_height">140dp</dimen>
+    <!-- Height of each TextView item of Stars-->
+    <dimen name="stars_item_height">26dp</dimen>
+    <!-- Padding of each PlaceInfo item -->
+    <dimen name="place_info_padding">16dp</dimen>
+</resources>
